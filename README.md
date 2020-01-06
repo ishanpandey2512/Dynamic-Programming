@@ -1,2 +1,2 @@
 # Digit-DP
-Anybody willing to learn digit dp will find this useful
+Anybody willing to learn dp will find this useful .
