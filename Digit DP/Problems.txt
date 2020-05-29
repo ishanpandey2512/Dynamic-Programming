@@ -1,0 +1,10 @@
+	// https://v...content-available-to-author-only...e.net/problem/LightOJ-1068
+	// https://w...content-available-to-author-only...j.com/problems/GONE/
+ 
+	GONE, RAONE - SPOJ
+	MAGIC NUMBERS - CODEFORCES
+	INVESTIGATION - LIGHTOJ
+	DIGIT COUNT - LIGHTOJ
+	369 NUMBERS - SPOJ
+	DIGIT SUM - SPOJ
+	PERFECT NUMBERS - CODEFORCES
